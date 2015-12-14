@@ -40,3 +40,20 @@ var vm = {
   }
 
 ko.applyBindings(vm);
+
+ko.applyBindings(vm);
+
+function loadPosts() {
+    $.get('/api/posts', function (data) {
+        var postsArray = [];
+        $.each(data, function (i, p) {
+            var newPost = new post(p.Id, p.Message, p.Username, p.DatePosted);
+            $.each(p.Comments, function (j, c) {
+                var newComment = new comment(c.Id, c.Message, c.Username, c.DatePosted);
+                newPost.comments.push(newComment);
+            });
+
+            vm.posts.push(newPost);
+        });
+    });
+}
