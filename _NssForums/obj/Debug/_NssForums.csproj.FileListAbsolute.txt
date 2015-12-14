@@ -75,3 +75,7 @@ c:\users\austin scott\documents\visual studio 2015\Projects\_NssForums\_NssForum
 c:\users\austin scott\documents\visual studio 2015\Projects\_NssForums\_NssForums\obj\Debug\_NssForums.csprojResolveAssemblyReference.cache
 c:\users\austin scott\documents\visual studio 2015\Projects\_NssForums\_NssForums\obj\Debug\_NssForums.dll
 c:\users\austin scott\documents\visual studio 2015\Projects\_NssForums\_NssForums\obj\Debug\_NssForums.pdb
+C:\Users\Austin Scott\Documents\Visual Studio 2015\Projects\_NssForums\_NssForums\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Austin Scott\Documents\Visual Studio 2015\Projects\_NssForums\_NssForums\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Austin Scott\Documents\Visual Studio 2015\Projects\_NssForums\_NssForums\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Austin Scott\Documents\Visual Studio 2015\Projects\_NssForums\_NssForums\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
