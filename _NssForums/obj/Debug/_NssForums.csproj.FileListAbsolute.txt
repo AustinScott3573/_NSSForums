@@ -78,6 +78,6 @@ C:\Users\Austin Scott\Documents\Visual Studio 2015\Projects\_NssForums\_NssForum
 C:\Users\Austin Scott\Documents\Visual Studio 2015\Projects\_NssForums\_NssForums\bin\System.Web.Http.Owin.xml
 C:\Users\Austin Scott\Documents\Visual Studio 2015\Projects\_NssForums\_NssForums\obj\Debug\_NssForums.dll
 C:\Users\Austin Scott\Documents\Visual Studio 2015\Projects\_NssForums\_NssForums\obj\Debug\_NssForums.pdb
-C:\Users\Austin Scott\Documents\Visual Studio 2015\Projects\_NssForums\_NssForums\obj\Debug\_NssForums.Migrations.InitialCreate.resources
-C:\Users\Austin Scott\Documents\Visual Studio 2015\Projects\_NssForums\_NssForums\obj\Debug\_NssForums.csproj.GenerateResource.Cache
 C:\Users\Austin Scott\Documents\Visual Studio 2015\Projects\_NssForums\_NssForums\obj\Debug\_NssForums.csprojResolveAssemblyReference.cache
+C:\Users\Austin Scott\Documents\Visual Studio 2015\Projects\_NSSForums\_NssForums\obj\Debug\_NssForums.Migrations.IntialCreate.resources
+C:\Users\Austin Scott\Documents\Visual Studio 2015\Projects\_NSSForums\_NssForums\obj\Debug\_NssForums.csproj.GenerateResource.Cache
