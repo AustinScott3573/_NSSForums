@@ -240,9 +240,9 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Hubs\BoardHub.cs" />
-    <Compile Include="Migrations\201512162114309_IntialCreate.cs" />
-    <Compile Include="Migrations\201512162114309_IntialCreate.Designer.cs">
-      <DependentUpon>201512162114309_IntialCreate.cs</DependentUpon>
+    <Compile Include="Migrations\201512151613111_InitialCreate.cs" />
+    <Compile Include="Migrations\201512151613111_InitialCreate.Designer.cs">
+      <DependentUpon>201512151613111_InitialCreate.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountBindingModels.cs" />
@@ -344,8 +344,8 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201512162114309_IntialCreate.resx">
-      <DependentUpon>201512162114309_IntialCreate.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201512151613111_InitialCreate.resx">
+      <DependentUpon>201512151613111_InitialCreate.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
